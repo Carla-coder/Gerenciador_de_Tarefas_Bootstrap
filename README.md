@@ -55,7 +55,7 @@ O projeto consiste em aplicar conhecimentos como:
 * A partir da página inicial, você poderá navegar pelas demais funcionalidades do projeto.
 ## Autores
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@octokatherine](https://www.github.com/Carla-coder)
 
 ## Print das Telas
 
